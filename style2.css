@@ -1,0 +1,19 @@
+.item{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 15px;
+}
+
+p{
+    background-color: aqua; 
+    padding: 10px; 
+    border: 10px solid whitesmoke; 
+    width: 100%; 
+    text-align: center;
+}
+
+.item-container{
+    display: flex;
+    justify-content: center;
+}
